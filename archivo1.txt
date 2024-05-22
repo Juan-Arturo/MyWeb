@@ -1,3 +1,4 @@
 archivo de prueba para aprender git 1.0
 bandera = true
 Nombre string = Arturo
+
